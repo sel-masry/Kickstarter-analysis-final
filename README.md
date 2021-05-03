@@ -11,4 +11,4 @@ I performed my analysis by filtering out data to visualize outcomes based on the
 I had great difficulty utilizing the '=CountIF' function for the second deliverable 
 
 ## Results 
-May seems to be the best month to launch your campaign, with the most successful campaigns! There were no cancelled campaigns in October, but the worst month to launch your campiagn seems to be in December.
+May seems to be the best month to launch your campaign, with the most successful campaigns! There were no cancelled campaigns in October, December is an outlier of a month with almost the same number of failed and successful campaigns.
